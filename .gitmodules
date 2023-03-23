@@ -8,3 +8,8 @@
 	url = https://github.com/svkucheryavski/mdatools
 	shallow = true
 	registered = true
+[submodule "pcv"]
+	path = pcv
+	url = https://github.com/cran/pcv
+	shallow = true
+	registered = true
