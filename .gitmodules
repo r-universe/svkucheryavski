@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mdatools"]
 	path = mdatools
 	url = https://github.com/svkucheryavski/mdatools
-	shallow = true
-	registered = true
 [submodule "pcv"]
 	path = pcv
 	url = https://github.com/cran/pcv
-	shallow = true
-	registered = true
