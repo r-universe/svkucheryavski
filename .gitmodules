@@ -7,4 +7,5 @@
 	url = https://github.com/svkucheryavski/mdatools
 [submodule "pcv"]
 	path = pcv
-	url = https://github.com/cran/pcv
+	url = https://github.com/svkucheryavski/pcv
+	subdir = R
